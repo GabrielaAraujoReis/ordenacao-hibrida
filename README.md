@@ -1,6 +1,6 @@
 # Ordenação híbrida: Quick Sort + Insertion Sort
 
-Atividade individual de Gabriela. A Ordenação Hibrida usa pivô aleatório e partição em três grupos: menores, iguais e maiores. A versão híbrida usa Insertion Sort quando um trecho tem **menos de `corte` elementos**.
+Atividade de Gabriela de Araújo Reis. A Ordenação Hibrida usa pivô aleatório e partição em três grupos: menores, iguais e maiores. A versão híbrida usa Insertion Sort quando um trecho tem **menos de `corte` elementos**.
 
 ## Arquivos
 
